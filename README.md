@@ -1,4 +1,4 @@
-# Bundestagswahlanalyse2017
+# Bundestagswahl 2017: Einblicke in das Tweetverhalten von Politikern mit Netzwerkanalyse und Topic Modelling
 
 ABSTRACT
 
