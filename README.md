@@ -19,4 +19,5 @@ nten wichtige Diskussionspunkte der Wahl identifizieren und den
 Parteien Themen zuordnen, die sie überwiegend selbst besetzen.
 
 KEYWORDS
+
 Politik, Twitter, Text Mining, Topic Modelling
