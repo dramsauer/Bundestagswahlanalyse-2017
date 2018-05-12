@@ -1,6 +1,7 @@
 # Bundestagswahlanalyse2017
 
 ABSTRACT
+
 Die sozialen Medien prägen die moderne Medienlandschaft - so hat
 auch die Politik erkannt, dass sich die Bürger mit diesen Massen-
 medien in Echtzeit über Meinungen und Neuigkeiten informieren
